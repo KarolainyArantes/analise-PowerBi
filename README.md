@@ -24,7 +24,7 @@ Esse relatório tem como principais tópicos: O número total de vendas por ano 
 
 
 * Segundo relatório: **Desempenho por País e Lucro**
-Dando ênfase no lucro obtido em cada mês/ano e nos países em que esse lucro foi distribuido, também analisamos o número total de vendas e sua distribuição por país por último a quantidade total de unidades vendidas.
+Dando ênfase no lucro obtido em cada mês/ano e nos países em que esse lucro foi distribuido, também analisamos o número total de vendas e sua distribuição por país e por último a quantidade total de unidades vendidas.
 
 * Último relatório: **Distribuição das Vendas e Lucros por País e Segmento** 
 A análise final conta com um mapa para análise de distribuição de vendas e lucros em cada país, enquanto o gráfico de pizza soma o lucro por país.
